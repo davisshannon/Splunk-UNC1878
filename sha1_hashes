@@ -1,4 +1,4 @@
-ssl_subject_common_name,ssl_hash
+certificate_subject_common_name,certificate_file_hash
 CN=updatemanagir.us,a22b04a7a053f845670760d529b6a25777f0c4d9
 CN=cmdupdatewin.com,10fcc4132e04f5fb560179e268bbc4920fced952
 CN=scrservallinst.info,8180fd377143b12029f4872b88376e2bf1e7f7f3
